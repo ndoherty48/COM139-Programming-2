@@ -1,7 +1,29 @@
-COM139 - Programming 2
+# COM139 - Programming 2
+This Repo is a collection of all my programming practicals for COM139 - Programming 2.
+## Module Details
+### Modue Co-Ordinator
+Dermot Kerr
+### Language
+Java
+### IDE
+netbeans
 
-This Repo is a collection of all my programming practicals for COM139 - Programming 2. 
-The Module Coordinator for this module was Dermot Kerr.
+## Course Details
+### Course Name
+BSc Computer Science
+### University
+Ulster University
+### Campus
+Magee
+### Faculty
+Computing and the built environment
+### School
+School of Computing Engineering and Inteligent Systems
 
-This Module was completed as part of my BSc Computer Science Degree at the University of Ulster on the Magee Campus. 
-This course is situated within the School of Computing Engineering and intelligent Systems, within the Faculty of Computing and Engineering.
+## Student Information
+### Name
+Nathan Doherty
+### BNumber
+B00736742
+### Year of Study (At time of Module)
+1
